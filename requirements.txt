@@ -1,0 +1,5 @@
+absl-py
+jax
+jaxlib
+matplotlib
+scipy
